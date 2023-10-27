@@ -1,0 +1,3 @@
+C:/Users/dozan/Documents/zenovichLabs/LR3/cmake-build-debug/CMakeFiles/LR3.dir
+C:/Users/dozan/Documents/zenovichLabs/LR3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dozan/Documents/zenovichLabs/LR3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
